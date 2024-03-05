@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Firman </h1>
-<h3 align="center">A passionate Frontend Developer  </h3>
+<h3 align="center">A passionate Fullstack Developer  </h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
