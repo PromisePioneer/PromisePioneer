@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **fifirman000@gmail.com**
 
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PromisePioneer&layout=compact)
+
 </p>
 
 
