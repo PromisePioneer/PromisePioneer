@@ -1,5 +1,11 @@
-# 💫 About Me:
-🌱 I’m currently learning Rust<br>💬 Ask me about Laravel, React.js, Next.js<br>📫 How to reach me fifirman000@gmail.com
+
+<div align="center">
+  <img
+    src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif"
+    align="center"
+    style="width: 100%"
+  />
+</div>
 
 
 ## 🌐 Socials:
