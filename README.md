@@ -3,19 +3,16 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="Mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="PostgresSQL logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="Javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=alpinejs" height="60" alt="Alpine JS logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React JS logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="React JS logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="React JS logo"  />
 </div>
 
 ###
