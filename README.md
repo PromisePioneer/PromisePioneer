@@ -1,11 +1,4 @@
 
-<div align="center">
-  <img
-    src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif"
-    align="center"
-    style="width: 100%"
-  />
-</div>
 
 
 ## 🌐 Socials:
